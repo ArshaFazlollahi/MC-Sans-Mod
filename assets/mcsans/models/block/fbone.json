@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "blocks/lol",
+    "down": "blocks/lol",
+    "north": "blocks/onebone",
+    "east": "blocks/onebone",
+    "south": "blocks/onebone",
+    "west": "blocks/onebone",
+    "particle": "blocks/lol"
+  }
+}

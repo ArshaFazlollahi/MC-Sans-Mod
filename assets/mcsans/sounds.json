@@ -1,0 +1,74 @@
+{
+  "Bone_Use": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "mcsans:file0014",
+        "stream": false
+      }
+    ]
+  },
+  "Bone_hurt": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "mcsans:file0053",
+        "stream": false
+      }
+    ]
+  },
+  "Flash": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "mcsans:file0028",
+        "stream": false
+      }
+    ]
+  },
+  "BoneAlert": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "mcsans:file0029",
+        "stream": false
+      }
+    ]
+  },
+  "Blasted2": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "mcsans:file0156",
+        "stream": false
+      }
+    ]
+  },
+  "Blasted1": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "mcsans:file0163",
+        "stream": false
+      }
+    ]
+  },
+  "LaunchGB": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "mcsans:file0161",
+        "stream": false
+      }
+    ]
+  },
+  "Megalovania": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "mcsans:undertale - 100 - megalovania",
+        "stream": false
+      }
+    ]
+  }
+}

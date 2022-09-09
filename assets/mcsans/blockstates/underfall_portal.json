@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "mcsans:underfall_portal_ew"
+    },
+    "axis=x": {
+      "model": "mcsans:underfall_portal_ns"
+    },
+    "inventory": {
+      "model": "mcsans:underfall_portal_ns"
+    }
+  }
+}
