@@ -9,6 +9,10 @@ These abilities include every major attack from each wave in the Sans fight from
 4. The ability to spawn and use a 3D gaster blaster to attack other player with, using the gaster blaster item in the inventory.
 5. The ability to play boss music for yourself by right clicking on the battle hype item. The boss music can be changed in the zip file.
 
+Model used for Gaster Blaster: https://sketchfab.com/models/5c02d420...
+
+By: https://sketchfab.com/jakartaiii
+
 ▶️You can also find the mod showcase video on my Youtube channel!
 
 Here's the link to the video: https://www.youtube.com/watch?v=cAab5Ye0R54&t=17s
